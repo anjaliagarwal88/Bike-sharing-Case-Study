@@ -8,3 +8,10 @@ The company wants to know:
 
 Goal:
 Develop a model to find the variables which are significant for the demand for shared bikes with the available independent variables. It will be used by the management to understand and manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+
+INTERPRETING THE RESULTS:
+Analysing the above model, the comapany should focus on the following features:
+Company should focus on expanding business during Spring.
+Company should focus on expanding business during September.
+Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to 2019.
+There would be less bookings during Light Snow or Rain, they could probably use this time to serive the bikes without having business impact.
